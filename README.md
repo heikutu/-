@@ -8,3 +8,4 @@
 ## 书籍资料
     * 免费的编程中文书籍库,有部分书的地址已经无效,地址:[https://github.com/justjavac/free-programming-books-zh_CN.git]
     * 一些应用的官网API,可以获取到很多免费的数据源,但是是否能用于商业不确定,可测试使用,地址:[https://github.com/jokermonn/-Api.git]
+    * awesome拥有众多技术的相关书籍或者文章,适合学习使用,地址:[https://github.com/sindresorhus/awesome.git]
