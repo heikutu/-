@@ -3,6 +3,7 @@
 ## Android相关资料
 * AndroidUtilsCode 该开源项目中有众多的关于Android操作的工具类,地址:[https://github.com/Blankj/AndroidUtilCode.git]
 * Android Architecture Blueprints,安卓架构蓝图,该项目由google核心开发人员维护,有较多Android架构的样例知识讲解,地址:[https://github.com/googlesamples/android-architecture.git]
+* Android 强大的图表自定义控件,地址:[https://github.com/PhilJay/MPAndroidChart.git] 
 
 
 ## 书籍资料
